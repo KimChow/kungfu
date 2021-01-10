@@ -27,6 +27,8 @@ npm config set electron_mirror https://npm.taobao.org/mirrors/electron/
 npm config set sass-binary-site https://npm.taobao.org/mirrors/node-sass
 npm install -g yarn electron-builder
 apt -y install python3-pip
+apt -y install yum
+apt -y install libasound2
 
 pip3 install pipenv
 

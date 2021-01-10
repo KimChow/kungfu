@@ -125,6 +125,7 @@
       "icon": "./resources/logo/icn.icns",
       "target": [
         "rpm",
+		"deb",
         "appimage"
       ]
     },
